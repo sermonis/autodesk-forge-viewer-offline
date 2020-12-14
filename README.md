@@ -1,4 +1,4 @@
-## Offline viewing sample for Autodesk Viewer
+## Offline viewing sample for Autodesk Forge Viewer
 [![Viewer](https://img.shields.io/badge/Viewer-v7-green.svg)](https://forge.autodesk.com/en/docs/viewer/v6/developers_guide/overview/)
 
 ## Description
