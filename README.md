@@ -53,7 +53,7 @@ http://developer-autodesk.github.io/translated-models/dwfx-sample-house/f0224dd3
 ```
 ![thumbnail](https://user-images.githubusercontent.com/10786558/45990589-98cc3980-c0b3-11e8-908f-fa2caf0cadbb.png)
 
-You can also download those translated models from this [GitHub repo](https://github.com/Developer-Autodesk/translated-models).
+You can also download those translated models from this [GitHub repo](https://github.com/sermonis/autodesk-forge-translated-models).
 
 You can translate your own models at [extract.autodesk.io](http://extract.autodesk.io).
 
